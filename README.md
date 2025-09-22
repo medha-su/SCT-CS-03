@@ -6,7 +6,7 @@ It evaluates the password based on length, uppercase/lowercase letters, numbers,
 🚀 Features
 - Real-time password strength feedback  
 - Color-coded indicators (Weak, Medium, Strong)  
-- Lightweight and responsive design  
+- Responsive design  
 
 🛠️ Tech Stack
 - **HTML** – Structure  
